@@ -14,5 +14,7 @@ Use Power BI to create a Dashboard to help directors and stakeholders have a vis
 ![image](https://github.com/user-attachments/assets/52a0130b-6fcb-4478-8422-d4ebffc1dc8f)
 
 
-## Overall:
+## Broad view:
 ![image](https://github.com/user-attachments/assets/a048ae65-98e6-4371-9354-9b6c3de65700)
+
+
